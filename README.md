@@ -35,14 +35,14 @@ python confusion_matrix_plot.py
 
 ---
 
-##🖼️ Preview
+##  🖼️ Preview
 <img width="1706" height="962" alt="Figure_1" src="https://github.com/user-attachments/assets/eaef6fbf-3792-412b-847e-9edad757c03e" />
 
 ---
 
 ## 📝 Originality Statement
 
-Inspired by a Xiaohongshu (RED) creator **“pytho遥感学习日志”**.
+Inspired by a Red Book creator **“pytho遥感学习日志”**.
 This implementation is independently developed with no affiliation.
 
 ---
