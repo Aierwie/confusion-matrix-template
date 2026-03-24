@@ -42,8 +42,8 @@ python confusion_matrix_plot.py
 
 ## 📝 Originality Statement
 
-Inspired by a Red Book creator **“pytho遥感学习日志”**.
-This implementation is independently developed with no affiliation.
+Inspired by the visual design of a Xiaohongshu (RED) creator “pytho遥感学习日志”.
+The code is independently implemented, and I have no affiliation with the original creator.
 
 ---
 
